@@ -78,8 +78,9 @@
 
 * [`SnapKit`](https://github.com/SnapKit/SnapKit)
 
+## Author
 
-Copyright © 2018 iAugus
+[@LinHelen]
 
 
 
